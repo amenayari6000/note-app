@@ -24,7 +24,10 @@ A simple, efficient note-taking app using **MVVM Architecture**, **Room Database
    - Dependencies injected using Dagger Hilt.
 
 ## Demo 🎥
- watch the video on [[YouTube](https://youtu.be/example-video-link](https://youtu.be/yj_Y6UBHgH8?si=wt8L6xLtqYdan8cV)).
+## Video Tutorial
+
+[Watch the video on YouTube](https://youtu.be/yj_Y6UBHgH8?si=wt8L6xLtqYdan8cV)
+
 
 ## Screenshots 📸
 ![b1](https://github.com/user-attachments/assets/21b047ee-1c10-477c-a02c-2a7e28aea64a)
