@@ -30,11 +30,17 @@ A simple, efficient note-taking app using **MVVM Architecture**, **Room Database
 
 
 ## Screenshots 📸
-![b1](https://github.com/user-attachments/assets/21b047ee-1c10-477c-a02c-2a7e28aea64a)
-![b2](https://github.com/user-attachments/assets/93708a9c-7331-4a06-8c90-61d23aa4abbe)
-![b3](https://github.com/user-attachments/assets/355f434b-1270-49e8-a9c5-cca12179f234)
-![b4](https://github.com/user-attachments/assets/c324f313-925d-49eb-8f59-a8ff57271e95)
-![b5](https://github.com/user-attachments/assets/dbaa25f6-735c-49d9-85c2-2708a2e19a33)
+
+<img src="https://github.com/user-attachments/assets/21b047ee-1c10-477c-a02c-2a7e28aea64a" width="150">
+<img src="https://github.com/user-attachments/assets/93708a9c-7331-4a06-8c90-61d23aa4abbe" width="150">
+<img src="https://github.com/user-attachments/assets/355f434b-1270-49e8-a9c5-cca12179f234" width="150">
+<img src="https://github.com/user-attachments/assets/c324f313-925d-49eb-8f59-a8ff57271e95" width="150">
+<img src="https://github.com/user-attachments/assets/dbaa25f6-735c-49d9-85c2-2708a2e19a33" width="150">
+
+
+
+
+
 
 
 ## Tech Stack ⚙️
